@@ -37,7 +37,7 @@ MonitoringJadwalServer
 3. Jalankan `Main.java`
 
 ## 📽️ Video Demo
-🔗 (Isi dengan link YouTube)
+🔗 https://youtu.be/S5fBYKb9dTc
 
 ## 📸 Screenshot
 (Tambahkan screenshot aplikasi)
